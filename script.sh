@@ -10,5 +10,5 @@ apt install -y net-tools
 apt install -y htop
 apt install -y nmap
 apt install -y nginx
-sudo adduser Fabiana
+sudo useradd -m Fabiana
 service nginx restart
